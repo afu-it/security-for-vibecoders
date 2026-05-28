@@ -1,4 +1,4 @@
-# secure-ship
+# security-for-vibecoders
 
 > **Security for vibe coders.** Ship production code without getting sued. PDPA 2024 compliant. OWASP Top 10 assessed. Zero security knowledge required.
 
