@@ -164,7 +164,7 @@ Use `secure-ship` when you want a practical, code-level security pass before shi
 
 ## Contributing
 
-Found a gap? Open an issue or PR at [github.com/afu-it/secure-ship](https://github.com/afu-it/secure-ship).
+Found a gap? Open an issue or PR at [github.com/afu-it/security-for-vibecoders](https://github.com/afu-it/security-for-vibecoders).
 
 ---
 
